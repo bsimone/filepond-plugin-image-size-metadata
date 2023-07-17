@@ -1,5 +1,5 @@
 {
-    "name": "filepond-plugin-image-size-metadata",
+    "name": "@bsimone/filepond-plugin-image-size-metadata",
     "version": "bsimone/filepond-plugin-image-size-metadata",
     "description": "Image size metadata Plugin for FilePond",
     "homepage": "https://pqina.nl/filepond",
